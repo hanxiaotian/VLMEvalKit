@@ -25,7 +25,7 @@
 | [**MME**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) | √         | √          | [**MME**](results/MME.md)                                    |
 | [**SEEDBench_IMG**](https://github.com/AILab-CVC/SEED-Bench) | √         | √          | [**SEEDBench_IMG**](results/SEEDBench_IMG.md)                |
 | [**MM-Vet**](https://github.com/yuweihao/MM-Vet)             | √         | √          | [**MM-Vet**](results/MMVet.md)                               |
-| [**Core-MM**](https://github.com/core-mm/core-mm)            | √         |            |                                                              |
+| [**InfiMM-Eval**](https://infimm.github.io/InfiMM-Eval/)            | √         |            |                                                       |
 
 **Supported Models**
 
@@ -141,7 +141,7 @@ Currently, we organize a benchmark as one single TSV file. During inference, the
 | CCBench               | √     | √     |            | √        |      | √    | √    | √    | √    | √      | √        |             |       |
 | SEEDBench_IMG         | √     | √     |            | √        |      | √    | √    | √    | √    | √      | √        |             |       |
 | MME                   | √     | √     |            | √        |      |      |      |      |      | √      | √        |             |       |
-| CORE_MM               | √     | √     | √          | √        |      |      |      |      |      |        | √        |             |       |
+| InfiMM-Eval               | √     | √     | √          | √        |      |      |      |      |      |        | √        |             |       |
 | MMVet                 | √     | √     |            | √        |      |      |      |      |      | √      | √        |             |       |
 
 <div align="center"><b>Table 1. TSV fields of supported datasets.</b></div>
